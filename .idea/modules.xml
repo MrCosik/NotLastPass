@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApiGateway/ApiGateway.iml" filepath="$PROJECT_DIR$/ApiGateway/ApiGateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/Eureka/Eureka.iml" filepath="$PROJECT_DIR$/Eureka/Eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotLastPass.iml" filepath="$PROJECT_DIR$/NotLastPass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UsersApi/UsersApi.iml" filepath="$PROJECT_DIR$/UsersApi/UsersApi.iml" />
     </modules>
   </component>
 </project>
