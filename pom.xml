@@ -11,6 +11,7 @@
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
+        <hibernate.ver>6.1.3.Final</hibernate.ver>
     </properties>
     
 </project>
